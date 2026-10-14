@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:078448a9-2e1a-543a-9ef2-ee98586d7491",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-07T08:43:50Z",
+    "component": {
+      "type": "application",
+      "name": "TZ",
+      "version": "b653ad08869c",
+      "bom-ref": "pkg:generic/anticloud/TZ@b653ad08869c",
+      "purl": "pkg:generic/anticloud/TZ@b653ad08869c",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "b653ad08869ce4c3660f9f7d2392e1015e390d3a"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-tz.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
