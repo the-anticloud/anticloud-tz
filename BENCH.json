@@ -543,7 +543,7 @@
    "url": "https://github.com/eggert/tz",
    "head": "fbbd33b7e90c0872fe43277760f695039742baa7",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/banchichen/TZImagePickerController"
+   "previous_substitute": "https://github.com/eggert/tz"
   }
  }
 }
